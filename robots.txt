@@ -1,0 +1,13 @@
+# Bhakti Kankrej — CV
+
+# Replace YOUR-USERNAME and bkt-cv with your GitHub Pages URL.
+#
+# Note for project sites (username.github.io/bkt-cv/): crawlers read
+# robots.txt at the domain root, not at this subpath. Submit sitemap.xml
+# directly in Google Search Console. On a custom domain or a
+# username.github.io user site, this file is served at the root.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-USERNAME.github.io/bkt-cv/sitemap.xml
