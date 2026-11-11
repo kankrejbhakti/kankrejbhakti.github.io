@@ -46,7 +46,7 @@ GitHub project sites live at `https://<username>.github.io/<repo>/`. Google read
 
 ## Print
 
-The page includes an A4 print stylesheet. Cmd/Ctrl+P prints a clean, text-first CV with the contact details on the first page.
+The page includes an A4 print stylesheet. Cmd/Ctrl+P prints a clean, text-first CV with the contact details on the first page. The figures, including the drawings section, are hidden in print.
 
 ## Files
 
@@ -54,6 +54,10 @@ The page includes an A4 print stylesheet. Cmd/Ctrl+P prints a clean, text-first 
 - `assets/bhakti-kankrej-cv.pdf` — the downloadable CV
 - `assets/portrait.jpg` — 860×1075 portrait, cropped from the source CV
 - `assets/og-image.png` — 1200×630 social preview
+- `assets/plan-typical.jpg` — typical floor plate drawing (Fig. 03)
+- `assets/unit-2bhk.jpg` — 2 BHK unit plan (Fig. 04)
+- `assets/unit-2-5bhk.jpg` — 2.5 BHK unit plan (Fig. 05)
+- `assets/unit-3bhk.jpg` — 3 BHK unit plan (Fig. 06)
 - `robots.txt`
 - `sitemap.xml`
 - `.nojekyll` — keeps GitHub Pages from running Jekyll
